@@ -15,12 +15,15 @@ export default function App() {
     )
   });    
   return (
-    <div>
+    <>
+    <p className="react-badge">Learning-React-3 </p>
+      <div>
         <Navbar />
         <Hero />
         <section className="cards-list">
             {cards}
         </section>
-    </div>
+      </div>
+    </>
   )
 }
