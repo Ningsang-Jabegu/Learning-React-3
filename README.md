@@ -5,7 +5,7 @@
 
 ## Overview
 
-This documentation provides an insight into **React Project 2**, a simple project developed for learning purposes using the React library. The project aims to demonstrate fundamental concepts of React (components) and is intended for educational purposes. Project 3 from (<a href="https://scrimba.com/learn/learnreact" target="_blank">https://scrimba.com/learn/learnreact</a>)
+This documentation provides an insight into **React Project 3**, a simple project developed for learning purposes using the React library. The project aims to demonstrate fundamental concepts of React (components) and is intended for educational purposes. Project 3 from (<a href="https://scrimba.com/learn/learnreact" target="_blank">https://scrimba.com/learn/learnreact</a>)
 
 ## Project Description
 
@@ -13,7 +13,7 @@ This documentation provides an insight into **React Project 2**, a simple projec
 
 ## Deployment
 
-The actual code that is ready for deployment can be found in the `build` folder of the project. To access the live version of the project, visit (<a href="https://react-project-2-by-ningsang-jabegu.netlify.app" target="_blank">https://react-project-2-by-ningsang-jabegu.netlify.app</a>). This live version offers an opportunity to interact with the application.
+The actual code that is ready for deployment can be found in the `build` folder of the project. To access the live version of the project, visit (<a href="https://react-project-3-by-ningsang-jabegu.netlify.app" target="_blank">https://react-project-3-by-ningsang-jabegu.netlify.app</a>). This live version offers an opportunity to interact with the application.
 
 ## Project Creation
 
