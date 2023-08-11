@@ -1,6 +1,6 @@
 # React Project 3 Documentation (Digital Business Card)
 
-<img src="https://github.com/Ningsang-Jabegu/Learning-React-2/blob/main/screenshot%20of%20page.png" alt="Project Screenshots" height="400">
+<img src="https://github.com/Ningsang-Jabegu/Learning-React-3/blob/main/Screenshot%20of%20site.png" alt="Project Screenshots" height="400">
 
 
 ## Overview
