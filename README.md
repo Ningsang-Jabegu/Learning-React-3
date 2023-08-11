@@ -1,4 +1,4 @@
-# React Project 3 Documentation (Digital Business Card)
+# React Project 3 Documentation (Air Bnb Experience Clone)
 
 <img src="https://github.com/Ningsang-Jabegu/Learning-React-3/blob/main/Screenshot%20of%20site.png" alt="Project Screenshots" height="400">
 
